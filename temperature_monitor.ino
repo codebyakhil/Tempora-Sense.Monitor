@@ -33,7 +33,7 @@
       A (backlight +) -> 5V (through 220 ohm resistor)
       K (backlight -) -> GND
 
-  Author: [Your Name]
+  Author: [Akhil kumar Sharma]
   ===========================================================
 */
 
