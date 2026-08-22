@@ -20,7 +20,8 @@ This project demonstrates how to interface an **analog sensor** with a microcont
 |---|---|---|
 | Arduino Uno | 1 | Microcontroller board |
 | LM35 Temperature Sensor | 1 | Measures ambient temperature |
-| 16x2 LCD Display (HD44780) | 1 | Displays temperature reading |
+| 16x2 LCD Display (HD44780) | 1 | Displays temperature reading |<img width="1536" height="1024" alt="ChatGPT Image Aug 22, 2026, 12_23_51 PM" src="https://github.com/user-attachments/assets/603b5fb5-907d-4c51-bb91-4d85a1f192d4" />
+
 | 10k Potentiometer | 1 | Adjusts LCD contrast |
 | 220Ω Resistor | 1 | LCD backlight current limiting |
 | Breadboard | 1 | Prototyping |
